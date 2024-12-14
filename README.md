@@ -2,7 +2,7 @@
 
 [![Linkedin:Osama](https://img.shields.io/badge/-Osama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osama-orabi-739940214/)](https://www.linkedin.com/in/osama-orabi-739940214/)
 [![ResearchGate:Osama](https://img.shields.io/badge/-Osama-red?style=flat-square&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Osama-Orabi-2)](https://www.researchgate.net/profile/Osama-Orabi-2)
-[![Google Scholar:Osama](https://img.shields.io/badge/-Osama-blue?style=flat-square&logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=vhicgroAAAAJ&hl=en)](https://scholar.google.com/citations?user=vhicgroAAAAJ&hl=en)
+[![Google Scholar:Osama](https://img.shields.io/badge/-Osama-lightblue?style=flat-square&logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=vhicgroAAAAJ&hl=en)](https://scholar.google.com/citations?user=vhicgroAAAAJ&hl=en)
 ![GitHub followers](https://img.shields.io/github/followers/osamacoooooll?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=osamacoooooll&color=brightgreen">  
 
