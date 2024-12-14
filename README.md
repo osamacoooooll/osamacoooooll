@@ -34,12 +34,12 @@
 
     </td>
     <td valign="top" width="30%">
-      <img align="right" width="200" src="https://raw.githubusercontent.com/osamacoooooll/osamacoooooll/master/assets/face.gif">
+      <img align="right" width="250" src="https://raw.githubusercontent.com/osamacoooooll/osamacoooooll/master/assets/face.gif">
     </td>
 
     </td>
     <td valign="top" width="30%">
-      <img align="right" width="200" src="https://raw.githubusercontent.com/osamacoooooll/osamacoooooll/master/assets/walking.gif">
+      <img align="right" width="250" src="https://raw.githubusercontent.com/osamacoooooll/osamacoooooll/master/assets/walking.gif">
     </td>
   </tr>
 </table>
