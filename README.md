@@ -12,7 +12,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🧠 I’m currently learning everything
+- 🧠 I’m currently learning more about quantum approaches to solve optimization problems
 - 👨‍🤝‍👨 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like playing Table Tinnes 🏓
